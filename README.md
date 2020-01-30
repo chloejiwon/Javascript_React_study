@@ -1,11 +1,27 @@
-# Java Script & React Study 
+# Java Script  
 
-## Managed in branches of categories
+## Study Javascript language through making Momentum 
 
 
+### Something I learn
 
-#### Movie App 2020
+#### Basic Knowledge
+:white_check_mark:ECMAScript - Specification, manual
 
-React JS Fundamentals Cours (2020 studied)
+EX) ES5, ES6 == version of manual
+
+:white_check_mark:Vanilla Javscript : Javascript without library (one type of js)
+		    Javascript without makeup
+		    JS provided to you on browser!!
+
+:white_check_mark: All web browsers are Javascript installed! Powerful!
+
+#### JS Grammar
+
+:white_check_mark: JS grammar
+
+- js should be inside in body!
+
+Vanilla Javascript for Beginners (2020 studied)
 
 - Reference - Nomad Coder (youtube)
