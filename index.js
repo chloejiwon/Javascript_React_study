@@ -1,23 +1,16 @@
-console.log('I am working. I am JS and beautiful . Im worth it')
-
-// Array
-
-const daysOfWeek = ["Mon","Tue","Wed","Thur","Fri","Sat","Sun"]
-console.log(daysOfWeek)
-
-// Object 
-// label and data
-// If the Object is const, we can change inside data
-const info = {
-    name : "jjioni",
-    age : 27,
-    gender:"male",
-    favFood : [
-        {name:"Kimchi",fatty:false},
-        {name:"Burber",fatty:true}
-    ]
+function sayHello(name, age){
+    s = `Hello! ${name}. you are ${age} years old.`
+    return s;
 }
-info.age ++;
-console.log(info);
-console.log(info.name);
-console.log(console)
+
+const greeting = sayHello("Jiwon",27);
+console.log(greeting);
+
+const calculator = {
+    plus : function(a,b){
+        return a+b;
+    }
+}
+
+sum = calculator.plus(5,5);
+console.log(sum);
