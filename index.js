@@ -1,16 +1,20 @@
-function sayHello(name, age){
-    s = `Hello! ${name}. you are ${age} years old.`
-    return s;
+const title = document.querySelector("#title");
+
+// JS listens to event ! 
+const BASECOLOR = "rgb(52, 152, 219)";
+const CHANGECOLOR = "#badc58";
+
+function handleClick(){
+    const currentColor = title.style.color;
+    console.log(currentColor);
+    if (currentColor == BASECOLOR)
+        title.style.color = CHANGECOLOR; 
+    else
+        title.style.color = BASECOLOR; 
 }
-
-const greeting = sayHello("Jiwon",27);
-console.log(greeting);
-
-const calculator = {
-    plus : function(a,b){
-        return a+b;
-    }
+function init(){
+    title.style.color = BASECOLOR;
+    title.addEventListener("click",handleClick);
+    
 }
-
-sum = calculator.plus(5,5);
-console.log(sum);
+init();

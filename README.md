@@ -38,7 +38,15 @@ If the Object is const, we can change inside data
 
 Can have array for data, or Array can have object
 
+##### DOM
 
+- Document Object Module
+
+- JS takes all elements in HTML and turn them into Object!
+
+:white_check_mark:MDN
+
+- always find MDN when finding where the events come from.
 
 Vanilla Javascript for Beginners (2020 studied)
 
