@@ -22,6 +22,25 @@ EX) ES5, ES6 == version of manual
 
 - js should be inside in body!
 
+:white_check_mark: JS Data
+
+- Data types : let, var, const... (use const for default)
+
+- Variable naming rule : camel case :) ex) lowerOfWeek (start with lower case)
+
+- Organizing Data : Arrays / Object
+
+##### Object 
+
+label and Data
+
+If the Object is const, we can change inside data
+
+Can have array for data, or Array can have object
+
+
+
 Vanilla Javascript for Beginners (2020 studied)
 
 - Reference - Nomad Coder (youtube)
+
