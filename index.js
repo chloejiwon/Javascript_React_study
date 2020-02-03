@@ -1,19 +1,16 @@
 const title = document.querySelector("#title");
 
 // JS listens to event ! 
-const BASECOLOR = "rgb(52, 152, 219)";
-const CHANGECOLOR = "#badc58";
+const CLICKED_CLASS = "clicked";
 
 function handleClick(){
-    const currentColor = title.style.color;
-    console.log(currentColor);
-    if (currentColor == BASECOLOR)
-        title.style.color = CHANGECOLOR; 
-    else
-        title.style.color = BASECOLOR; 
+    title.classList.toggle(CLICKED_CLASS);
+    // toggle is function.
+    // if it is there remove. 
+    // if it is not there, add. 
 }
+
 function init(){
-    title.style.color = BASECOLOR;
     title.addEventListener("click",handleClick);
     
 }
