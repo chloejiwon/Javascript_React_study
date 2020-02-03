@@ -48,6 +48,17 @@ Can have array for data, or Array can have object
 
 - always find MDN when finding where the events come from.
 
+
+#### Event Handler
+
+:white_check_mark: JS is made to response to Events
+
+- Events are anything that happens in website (ex. resize, click, closing ...)
+
+- (EX) window.addEventListener("click",function{})
+
+- When event happens, JS function is called and executed.
+
 Vanilla Javascript for Beginners (2020 studied)
 
 - Reference - Nomad Coder (youtube)
