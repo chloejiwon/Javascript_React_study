@@ -70,6 +70,8 @@ Can have array for data, or Array can have object
 
 - save small js information (in user's browser)
 
+- it works on URL
+
 Vanilla Javascript for Beginners (2020 studied)
 
 - Reference - Nomad Coder (youtube)
