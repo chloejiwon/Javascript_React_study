@@ -30,6 +30,12 @@ EX) ES5, ES6 == version of manual
 
 - Organizing Data : Arrays / Object
 
+- QuerySelector gets the first one that it finds.
+
+- QuerySelector all gets everything
+
+
+
 ##### Object 
 
 label and Data
@@ -58,6 +64,11 @@ Can have array for data, or Array can have object
 - (EX) window.addEventListener("click",function{})
 
 - When event happens, JS function is called and executed.
+
+
+#### Local Storage
+
+- save small js information (in user's browser)
 
 Vanilla Javascript for Beginners (2020 studied)
 
