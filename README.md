@@ -6,6 +6,8 @@
 
 For Learning vanilla JS
 
+- (20/2/7) 25 lessons completed
+
 Javascript basics
 
 #### Movie App 2020
