@@ -72,6 +72,11 @@ Can have array for data, or Array can have object
 
 - it works on URL
 
+
+#### Filter & forEach !!!
+
+
+
 Vanilla Javascript for Beginners (2020 studied)
 
 - Reference - Nomad Coder (youtube)
