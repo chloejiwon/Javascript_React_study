@@ -6,7 +6,9 @@
 
 For Learning vanilla JS
 
-- (20/2/7) 25 lessons completed
+:white_check_mark: (20/2/7) 25 lessons completed
+
+:white_check_mark: (20/2/9) 29 lessons completed (Making To Do List, Setting bg image)
 
 Javascript basics
 
