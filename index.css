@@ -3,13 +3,16 @@ body{
 }
 
 h1 {
-    color : #34495e;
+    color : #ecf0f1;
+}
+h4 {
+    color : #ecf0f1;
 }
 .btn {
     cursor : pointer;
 }
 .clicked {
-    color : #badc58;
+    color : white;
 }
 
 .form,
@@ -18,7 +21,7 @@ h1 {
 }
 
 .showing{
-    display:block;
+    display:white;
 }
 
 @keyframes fadeIn{
