@@ -10,6 +10,8 @@ For Learning vanilla JS
 
 :white_check_mark: (20/2/9) 29 lessons completed (Making To Do List, Setting bg image)
 
+:white_check_mark: (20/2/12) All lessons completed!! -- maybe need to make some changes in css...:bowtie::cupid::cupid:
+
 Javascript basics
 
 #### Movie App 2020
